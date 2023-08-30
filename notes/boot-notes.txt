@@ -1,0 +1,52 @@
+
+30th, 31st, 1,4,5,6,7   :7thh sept
+Spring boot 
+
+
+==========================================
+Java 17
+JAVA EE - Seevrlts, JSP, Web Servers,Web Services
+ORM : JPA or Hibernate
+Database : MYSQL8 Community Server database
+============================================
+
+Spring 6x => Outdated 
+
+Software
+=============
+JDK 8 or 11 for Spring boot 2x (2.7)
+JDK 17 for spring boot 3x
+MYSQL8 community edition db
+POST man for REST API end points testing
+Eclipse IDE/IntelliJ Idea/ STS 
+
+=======================================================
+
+     Servers : can talk to any databases
+     		   can able to produce rest end points
+
+     UI servers : NODE.JS ,express js, lookback js
+     				(java script) :=> single thread
+     Middle servers: Spring Boot => Core Java : Multi Threaded
+     				 Dot Net, Python
+
+
+     Client side: Reactjs, Angular Framework 
+ =========================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
