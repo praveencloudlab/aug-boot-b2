@@ -9,9 +9,16 @@ import com.cts.ecart.dao.ProductDaoImpl;
 @Service
 public class ProductServiceImpl {
 	
-	@Autowired
-	private ProductDaoImpl prodDao;
+	//@Autowired
+	private ProductDaoImpl prodDao; // filed level autowired
 	
+	
+	@Autowired
+	public ProductServiceImpl(ProductDaoImpl prodDao) {
+		this.prodDao = prodDao;
+	}
+
+
 	public ProductServiceImpl() {
 		System.out.println(">> ProductServiceImpl object created..");
 	}
