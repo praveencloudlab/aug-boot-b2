@@ -1,0 +1,65 @@
+Spring web
+============
+web application development
+	-> web mvc
+				Browser -> C -> Model -> View (JSP/thymeleaf/velacity)
+				Control
+				Model
+				View
+web rest api appplication development
+	-> rest api
+
+	Client -> rest-api-server-> response to client
+
+
+
+Web services
+=================
+  Java												C++
+  Dot net        response    	Java
+  C++												  Dot net
+
+
+
+Spring boot Rest API
+========================
+Web Services
+1.SOAP (JAX-WS) - XML  - SPEC
+	Axis2 
+2.REST (JAX-RS) - XML / Text - SPEC
+	Rest easy
+	Apache CXF
+	Jersey
+
+
+
+
+
+3.Spring-REST - Royfielding
+
+
+HTTP methods (sends request to server from client)
+===============
+GET
+POST
+PUT
+PATCH
+DELETE
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Java --> (WS) <--Dot Net 
+
+
+   Java - JDBC  DB
+   Java - BR -  DB
